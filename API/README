@@ -1,0 +1,8 @@
+INSTALL
+
+npm install discord.js axios
+
+
+RUN IT 
+
+node bot.js
