@@ -25,3 +25,9 @@ Click on the terminal tab to open it.
 Step 3: Create a New Directory for Your Bot
 
 Create a Directory:
+
+
+
+
+In your Discord server, type /IPLOG and follow the prompts to send a Grabify link.
+Type /IMAGE <image_url> to embed an image, replacing <image_url> with the actual URL of the image.
