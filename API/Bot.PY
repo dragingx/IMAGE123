@@ -4,7 +4,7 @@ const axios = require('axios');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.MESSAGE_CONTENT] });
 
 // Replace 'YOUR_BOT_TOKEN' with your actual Discord bot token
-const token = 'YOUR_BOT_TOKEN';
+const token = 'MTQzNDAyOTAyMjUzNDMwNzkyMA.GZVbbY.yWBC4ANLj_DtG6zlBQ9IfEcOmNzmcXgXSzlxgI';
 
 client.on('messageCreate', async message => {
     if (message.content === '/IPLOG') {
